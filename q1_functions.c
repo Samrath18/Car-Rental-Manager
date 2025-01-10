@@ -1,9 +1,3 @@
-/*
-Name: Samrath Singh
-Student ID: 1290323
-Assignment 2, Question 1
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

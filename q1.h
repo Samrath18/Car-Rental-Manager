@@ -1,4 +1,4 @@
-// Libraries Used Add more here if needed
+// Libraries Used
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
